@@ -1,0 +1,22 @@
+.link-text:hover {
+    text-decoration: underline;
+}
+
+.comp1,
+.comp2,
+.comp3,
+.comp4,
+.comp5,
+.comp6 {
+    width: 8vw;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 2vw;
+    margin-left: 2vw;
+}
+
+.fa-brands:hover {
+    color: grey;
+}
