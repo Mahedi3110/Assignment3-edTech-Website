@@ -2,12 +2,7 @@
     text-decoration: underline;
 }
 
-.comp1,
-.comp2,
-.comp3,
-.comp4,
-.comp5,
-.comp6 {
+.company {
     width: 8vw;
 }
 
@@ -19,4 +14,13 @@
 
 .fa-brands:hover {
     color: grey;
+}
+
+.working-photo {
+    width: 32vw;
+}
+
+.view-all,
+.register {
+    width: 12vw;
 }
